@@ -1,5 +1,7 @@
 # 🧭 ComplainIQ - Campus Lost & Found Platform
 
+🌐 [Live Demo](https://public-complient-websitw.vercel.app/)
+
 ComplainIQ is a centralized, mobile-responsive digital platform designed to help students easily report and track lost-and-found items within their college campus. The goal is to replace outdated and scattered methods like WhatsApp groups, notice boards, and word-of-mouth with a simple, structured, and real-time solution.
 
 ---
@@ -23,12 +25,12 @@ ComplainIQ is a centralized, mobile-responsive digital platform designed to help
 ## 🎯 Problem Statement
 
 Students currently face challenges in reporting and recovering lost items due to:
-- Lack of a centralized system
-- Scattered communication via WhatsApp, notice boards, etc.
-- No real-time updates
+- Lack of a centralized system  
+- Scattered communication via WhatsApp, notice boards, etc.  
+- No real-time updates  
 - Confusion and inefficiency in item recovery
 
-### Example:  
+### Example  
 > Rahul loses his calculator and asks around, checks notice boards, and posts in class groups—but never hears back. There's no way for him to know if someone found it.
 
 ---
@@ -36,11 +38,11 @@ Students currently face challenges in reporting and recovering lost items due to
 ## 💡 Our Solution
 
 ComplainIQ provides a single, unified platform to:
-- Instantly post and view lost-and-found reports
-- Engage with other students for faster recovery
+- Instantly post and view lost-and-found reports  
+- Engage with other students for faster recovery  
 - Let admins manage reports effectively
 
-### Example:  
+### Example  
 > Rahul reports his lost calculator on ComplainIQ with a photo and location. A student who finds it comments, and Rahul retrieves it the same day.
 
 ---
@@ -58,7 +60,9 @@ ComplainIQ provides a single, unified platform to:
 - **Frontend:** React (Vite + Tailwind CSS)  
 - **Backend:** Node.js + Express  
 - **Database:** MongoDB  
-- **Deployment:** Netlify / Vercel (frontend), Render / Railway (backend)
+- **Deployment:**  
+  - Frontend: [Vercel](https://vercel.com/)  
+  - Backend: [Render](https://render.com/) / [Railway](https://railway.app/)
 
 ---
 
